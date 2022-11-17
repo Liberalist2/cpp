@@ -2,7 +2,7 @@
 #include <cmath>
 
 int main() {
-  int a,b,c;
+  double a,b,c;
 
   std::cout << "Enter a: ";
   std::cin >> a;
